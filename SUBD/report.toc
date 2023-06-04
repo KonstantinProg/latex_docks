@@ -1,0 +1,11 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Введение}{3}{}%
+\contentsline {section}{\numberline {2}Описание проекта}{4}{}%
+\contentsline {subsection}{\numberline {2.1}Цель}{4}{}%
+\contentsline {subsection}{\numberline {2.2}Процедура логического проектирования}{4}{}%
+\contentsline {subsection}{\numberline {2.3}Математическая модель}{5}{}%
+\contentsline {subsection}{\numberline {2.4}Аналитика}{6}{}%
+\contentsline {section}{\numberline {3}Практическая реализация проекта}{8}{}%
+\contentsline {subsection}{\numberline {3.1}Архитертура проекта}{8}{}%
+\contentsline {subsection}{\numberline {3.2}Программный код}{10}{}%
+\contentsfinish 
