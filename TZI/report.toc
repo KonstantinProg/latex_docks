@@ -1,0 +1,11 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Условия задания}{3}{section.0.1}%
+\contentsline {section}{\numberline {2}Словарь терминов и слэнговых выражений}{4}{section.0.2}%
+\contentsline {section}{\numberline {3}Блок-схема «Защищаемая информация»}{5}{section.0.3}%
+\contentsline {section}{\numberline {4}Схемы защищаемого объекта}{6}{section.0.4}%
+\contentsline {subsubsection}{ПЭМИН}{9}{subsubsection*.1}%
+\contentsline {subsubsection}{Хранение и использование документов в электронной форме.}{9}{subsubsection*.2}%
+\contentsline {subsubsection}{Хранение и использование документов допуска "a" в бумажном виде.}{10}{subsubsection*.3}%
+\contentsline {section}{\numberline {5}Личности работников с допуском. Персональная информация.}{10}{section.0.5}%
+\contentsline {subsubsection}{Защита косвенной информации помимо персонала.}{11}{subsubsection*.4}%
+\contentsfinish 
