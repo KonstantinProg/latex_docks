@@ -1,0 +1,10 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Введение}{3}{}%
+\contentsline {section}{\numberline {2}Теория}{4}{}%
+\contentsline {subsection}{\numberline {2.1}Виды динамического анализа.}{4}{}%
+\contentsline {subsection}{\numberline {2.2}Тестирование чёрного ящика.}{5}{}%
+\contentsline {subsection}{\numberline {2.3}Тестирование белого ящика.}{5}{}%
+\contentsline {subsection}{\numberline {2.4}Профилирование.}{6}{}%
+\contentsline {subsection}{\numberline {2.5}Мониторинг.}{6}{}%
+\contentsline {subsection}{\numberline {2.6}Дебаггинг.}{7}{}%
+\contentsfinish 
